@@ -7,7 +7,7 @@ sidebar:
     hide: true
 ---
 
-<p class="homepage-subheading hx:font-medium">Alongside the next Yukon territorial election, we’re having a plebiscite on electoral reform in the Yukon. <span class="hx:font-semibold">Vote YES for a more awesome Yukon</span>.</p>
+<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">Alongside the next Yukon territorial election, we’re having a plebiscite on electoral reform in the Yukon. <span class="hx:font-semibold">Vote YES for a more awesome Yukon</span>.</p>
 
 
 ## What’s happening?
