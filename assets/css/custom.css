@@ -1,4 +1,67 @@
-/* .content {
-  font-family: "Times New Roman", Times, serif;
-} */
+@layer theme {
+  :root {
+    --hx-text-base: 1.125rem;
+    --hx-color-slate-100: #D7F1F6;
+    --hx-color-dark: #0B0F1A;
+  }
+}
 
+/* Dark theme background color */
+body:where(.dark, .dark *) {
+  background-color: var(--hx-color-dark);
+  color: var(--hx-color-slate-100);
+}
+
+/* Slightly smaller line height and margins */
+.content :where(p):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  margin-top: calc(var(--hx-spacing) * 5);
+  line-height: calc(var(--hx-spacing) * 6.5);
+}
+
+.content :where(ul):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  margin-top: calc(var(--hx-spacing) * 5);
+}
+
+.homepage-logo-bg {
+  margin-left: 2rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  /* background-image: url(/img/vote-yes-yukon-logo-r1.svg); */
+  -webkit-mask-image: url(/img/vote-yes-yukon-logo-r1.svg);
+  mask-image: url(/img/vote-yes-yukon-logo-r1.svg);
+  mask-repeat: no-repeat;
+  mask-size: contain;
+  width: 100%;
+  height: 300px;
+}
+
+.light .homepage-logo-bg {
+  background-color: var(--hx-color-slate-900);
+  color: var(--hx-color-slate-100);
+}
+
+.dark .homepage-logo-bg {
+  /* background-color: var(--hx-color-gray-100); */
+  background-color: var(--hx-color-slate-100);
+  color: var(--hx-color-slate-900);
+}
+
+.homepage-subheading {
+  font-size: var(--hx-text-2xl);
+  text-align: right;
+  padding-top: 1rem;
+  padding-top: 1rem;
+  line-height: calc(var(--hx-spacing) * 7);
+}
+
+/* Remove H2 bottom borders */
+.content :where(h2):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  border-bottom-width: 0px;
+}
+
+/* Footer links */
+footer :where(a):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: var(--hx-color-primary-600);
+  text-decoration-line: underline;
+  text-decoration-thickness: from-font;
+}

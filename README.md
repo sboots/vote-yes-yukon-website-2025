@@ -20,3 +20,10 @@ Todo:
 - Favicon updates
 - News/updates path configuration
 - Plausible.io setup
+
+Additional todo items:
+
+- Mobile breakpoint adjustments to header image
+- Menu and anchor grey colours to match theme
+- Add poster images and downloads
+- Add spreadsheet links

@@ -7,18 +7,16 @@ sidebar:
     hide: true
 ---
 
-## Vote YES Yukon
-
-Alongside the next Yukon territorial election, we’re having a plebiscite on electoral reform in the Yukon. Vote YES for a more awesome Yukon.
+<p class="homepage-subheading hx:font-medium">Alongside the next Yukon territorial election, we’re having a plebiscite on electoral reform in the Yukon. <span class="hx:font-semibold">Vote YES for a more awesome Yukon</span>.</p>
 
 
 ## What’s happening?
 
 When the next Yukon election takes place, eligible voters will also be able to choose “Yes” or “No” on an electoral reform plebiscite question. 
 
-The question asks if voters want to change to a ranked vote system – where you rank your choice of candidates in order – or to stick with the current first-past-the-post voting system, which everyone agrees is pretty terrible.
+The question asks if voters want to change to a ranked vote system – where you rank your choice of candidates in order – or to stick with the current first-past-the-post voting system, which everyone agrees is [pretty terrible](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening).
 
-If you want to change, vote yes! If you want to stick with first-past-the-post, vote no.
+**If you want to change, vote yes! If you want to stick with first-past-the-post, vote no.**
 
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
 
@@ -33,7 +31,7 @@ The Yukon is an awesome role model for so many things. People across Canada have
 
 ### Create better political outcomes
 
-The Yukon Citizens’ Assembly on electoral reform chose ranked vote because it [makes more votes matter](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608) than first-past-the-post. Ranked vote [allows](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608) “voters to vote for who they truly want, and it opens the door to smaller parties and independent candidates getting voted in”. 
+The [Yukon Citizens’ Assembly on electoral reform](https://www.yukoncitizensassembly.ca/) chose ranked vote because it [makes more votes matter](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608) than first-past-the-post. Ranked vote [allows](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608) “voters to vote for who they truly want, and it opens the door to smaller parties and independent candidates getting voted in”. 
 
 As the Citizens’ Assembly report [pointed out](https://www.yukoncitizensassembly.ca/ycaer-final-report-october-2024/), “with Ranked Vote, voters can honestly rank their choices without feeling their vote is wasted”. That’s pretty awesome!
 
@@ -61,8 +59,6 @@ It would be awesome for Yukon to be the first Canadian territory or province to 
 
 Here’s some reasons to vote no (these are tongue-in-cheek!).
 
-
-
 * You’re a current Yukon politician or political staffer, and you want to keep things the same so it’s easier to get re-elected.
 * You think politics in Canada is working *totally fine* the way it is.
 * Your favourite colour is beige.
@@ -86,13 +82,11 @@ Here are some posters that you can print off (~~on your work printer~~ at a loca
 
 Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate $10 or more before our planned print run, we’ll make sure to get you a lawn sign (we’re still figuring out shipping options for outside of Whitehorse). 
 
-Some quick donation requirements:
-
-
+#### Some quick donation requirements:
 
 * You can send donations by e-transfer to [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
 * If you’ve donated and you’d like a lawn sign, fill out our lawn sign request form (coming soon).
-* **We are not a political party and these are not tax deductible.**
+* **We are not a political party and these donations are not tax deductible.**
 * For transparency, your name (as displayed in the e-transfer) will be added to a publicly-visible donation record spreadsheet.
 * Please only send a donation if you are a Yukon resident, and please don’t donate more than $200.
 * If for any reason we’re unsure about you or your donation, we’ll refund it back to you via e-transfer.
@@ -109,7 +103,7 @@ The best thing you can do is tell your friends, family, coworkers, neighbours, s
 
 It’s a niche topic that almost no one cares about, but it’s such a great opportunity to make our territory better. Letting folks know that it’s happening, and that voting YES is a good idea, will make a big difference.
 
-You can share our website link ([voteyesyukon.ca](voteyesyukon.ca)) or Facebook page (coming soon) with anyone who is interested.
+You can share our website link ([voteyesyukon.ca](https://voteyesyukon.ca)) or Facebook page (coming soon) with anyone who is interested.
 
 
 ## Who are you people?

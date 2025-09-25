@@ -5,6 +5,8 @@ theme: hextra
 
 
 markup:
+  tableOfContents:
+    endLevel: 5
   highlight:
     noClasses: false
   goldmark:
