@@ -34,8 +34,21 @@ body:where(.dark, .dark *) {
   mask-repeat: no-repeat;
   mask-size: contain;
   width: 100%;
-  height: 150px;
+  height: 110px;
 }
+
+@media screen and (min-width: 410px) {
+  .homepage-logo-bg {
+    height: 130px;
+  }
+}
+
+@media screen and (min-width: 459px) {
+  .homepage-logo-bg {
+    height: 150px;
+  }
+}
+
 
 @media screen and (min-width: 768px) {
   .homepage-logo-bg {
@@ -66,6 +79,12 @@ body:where(.dark, .dark *) {
   padding-top: 1rem;
   padding-top: 1rem;
   line-height: calc(var(--hx-spacing) * 7);
+}
+
+@media screen and (max-width: 767px) {
+  .homepage-subheading {
+    padding-top: 0rem;
+  }
 }
 
 /* Remove H2 bottom borders */
