@@ -70,13 +70,24 @@ Here’s some reasons to vote no (these are tongue-in-cheek!).
 
 We’re not affiliated with any Yukon political party or organization, and we’re just doing this because we think electoral reform is really cool.
 
-If you’d like to support the campaign, that would be awesome!
+**If you’d like to support the campaign, that would be awesome!**
+
+{{< cards >}}
+  {{< card link="#print-off-a-poster" title="🖼️ Print off a poster" >}}
+  {{< card link="#donate-to-our-lawn-sign-fund" title="🪧 Donate to our lawn sign fund" >}}
+  {{< card link="#tell-your-friends-to-vote-yes" title="🧑‍⚕️ Tell your friends to vote YES " >}}
+{{< /cards >}}
 
 
 ### Print off a poster
 
 Here are some posters that you can print off (~~on your work printer~~ at a local office supply store), in 11x17 ledger/tabloid size. If you have ideas for other poster designs, give us a shout at [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com). 
 
+{{< cards >}}
+  {{< card link="/files/be-awesome-vote-yes-v1.pdf" title="Be awesome, vote YES" image="/img/be-awesome-vote-yes-v1-preview.png" subtitle="11x17 PDF file" >}}
+  {{< card link="/files/soyez-numero-un-votez-oui-v1.pdf" title="Soyez numéro un·e, votez OUI" image="/img/votez-oui-yukon-logo-r1-preview.png" subtitle="11x17 PDF file" >}}
+
+{{< /cards >}}
 
 ### Donate to our lawn sign fund
 

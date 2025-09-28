@@ -11,6 +11,12 @@ Built with:
 
 [Hugo template documentation](https://gohugo.io/templates/new-templatesystem-overview/) is here, and [Hextra documentation is here](https://imfing.github.io/hextra/docs/getting-started/).
 
+## Local preview
+
+```
+hugo server --logLevel debug -D --disableFastRender -p 1314
+```
+
 ## Things to do
 
 Todo:
@@ -19,11 +25,12 @@ Todo:
 - Remove or fix text-search JS
 - Favicon updates
 - News/updates path configuration
-- Plausible.io setup
+- Plausible.io setup (done)
+- Adjust navbar text size to 24px (on larger breakpoints)
 
 Additional todo items:
 
-- Mobile breakpoint adjustments to header image
+- Mobile breakpoint adjustments to header image (done)
 - Menu and anchor grey colours to match theme
-- Add poster images and downloads
+- Add poster images and downloads (done)
 - Add spreadsheet links

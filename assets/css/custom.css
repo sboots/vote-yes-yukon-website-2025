@@ -4,7 +4,17 @@
     --hx-color-slate-100: #d7f1f6;
     --hx-color-dark: #0b0f1a;
     --hx-color-neutral-900: #0b0f1a;
+
+    /* --hx-font-sans:  */
   }
+}
+
+/* Inter Tight webfont from Google Fonts */
+.hextra-nav-container, main, .hextra-toc, footer {
+  font-family: "Inter Tight", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
 
 /* Dark theme background color */

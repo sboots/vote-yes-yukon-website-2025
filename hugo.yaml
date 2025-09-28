@@ -3,6 +3,11 @@ languageCode: en-us
 title: Vote YES Yukon
 theme: hextra
 
+menu:
+  main:
+    - name: Français
+      url: "https://votezouiyukon.ca/"
+      weight: 1
 
 markup:
   tableOfContents:
