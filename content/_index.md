@@ -105,7 +105,7 @@ Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate
 
 You can request a lawn sign without making a donation, with our lawn sign request form (coming soon). We’ll get these to people in first-come, first-serve order, using any additional donation funds we receive. (Not first-past-the-post order! That was a joke.) If you donate more than $10, you’re helping print lawn signs for other Vote YES Yukon supporters, which is super nice!
 
-For public transparency, you can see who donated to Vote YES Yukon here (coming soon), and you can see our expenses here (coming soon). These are updated on a weekly basis. 
+For public transparency, you can [see who donated to Vote YES Yukon here](https://docs.google.com/spreadsheets/d/1Mtn_kpjpEA1xQZQqOIpuioOM1rSHYLSdAktMv8x6I0Y/edit), and you can [see our expenses here](https://docs.google.com/spreadsheets/d/1CsQ8GDYejsV0yfmII71SvGTCWfcaYarltdghoqC-luI/edit). These are updated on a weekly basis. 
 
 
 ### Tell your friends to vote YES
@@ -119,7 +119,7 @@ You can share our website link ([voteyesyukon.ca](https://voteyesyukon.ca)) or F
 
 ## Who are you people?
 
-We’re the non-partisan Vote YES Yukon campaign! 
+We’re the non-partisan Vote YES Yukon campaign! We’re not affiliated with any Yukon political party or other organization. 
 
 [Sean Boots](https://sboots.ca/) \
 Public servant and technology writer \
