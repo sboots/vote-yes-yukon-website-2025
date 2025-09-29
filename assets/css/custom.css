@@ -4,14 +4,19 @@
     --hx-color-slate-100: #d7f1f6;
     --hx-color-dark: #0b0f1a;
     --hx-color-neutral-900: #0b0f1a;
+    --hx-color-white: #fbcc6b;
 
     /* --hx-font-sans:  */
   }
 }
 
 /* Inter Tight webfont from Google Fonts */
-.hextra-nav-container, main, .hextra-toc, footer {
-  font-family: "Inter Tight", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+.hextra-nav-container,
+main,
+.hextra-toc,
+footer {
+  font-family: "Inter Tight", ui-sans-serif, system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
@@ -21,6 +26,22 @@
 body:where(.dark, .dark *) {
   background-color: var(--hx-color-dark);
   color: var(--hx-color-slate-100);
+}
+
+/* Light theme background image */
+/* Dark theme background color */
+body:where(.light, .light *) {
+  background-image: none;
+  background-size: 44%;
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-color: #fff1d4;
+}
+
+@media screen and (min-width: 768px) {
+  body:where(.light, .light *) {
+    background-image: url("/img/sun-bg-partial.png");
+  }
 }
 
 /* Slightly smaller line height and margins */
