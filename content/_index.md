@@ -96,14 +96,14 @@ Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate
 #### Some quick donation requirements:
 
 * You can send donations by e-transfer to [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
-* If you’ve donated and you’d like a lawn sign, fill out our lawn sign request form (coming soon).
+* If you’ve donated and you’d like a lawn sign, [fill out our lawn sign request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform).
 * **We are not a political party and these donations are not tax deductible.**
 * For transparency, your name (as displayed in the e-transfer) will be added to a publicly-visible donation record spreadsheet.
 * Please only send a donation if you are a Yukon resident, and please don’t donate more than $200.
 * If for any reason we’re unsure about you or your donation, we’ll refund it back to you via e-transfer.
 * If we have any donation funds left over after the election, we’ll donate them to the [Samara Centre for Democracy](https://www.samaracentre.ca/), which does awesome work to promote civic engagement in Canada. 
 
-You can request a lawn sign without making a donation, with our lawn sign request form (coming soon). We’ll get these to people in first-come, first-serve order, using any additional donation funds we receive. (Not first-past-the-post order! That was a joke.) If you donate more than $10, you’re helping print lawn signs for other Vote YES Yukon supporters, which is super nice!
+You can request a lawn sign without making a donation, with our [lawn sign request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform). We’ll get these to people in first-come, first-serve order, using any additional donation funds we receive. (Not first-past-the-post order! That was a joke.) If you donate more than $10, you’re helping print lawn signs for other Vote YES Yukon supporters, which is super nice!
 
 For public transparency, you can [see who donated to Vote YES Yukon here](https://docs.google.com/spreadsheets/d/1Mtn_kpjpEA1xQZQqOIpuioOM1rSHYLSdAktMv8x6I0Y/edit), and you can [see our expenses here](https://docs.google.com/spreadsheets/d/1CsQ8GDYejsV0yfmII71SvGTCWfcaYarltdghoqC-luI/edit). These are updated on a weekly basis. 
 
