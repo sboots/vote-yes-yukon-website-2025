@@ -13,7 +13,7 @@ sidebar:
 
 ## What’s happening?
 
-Yukoners will be asked whether to keep first‑past‑the‑post or switch to ranked voting on a territorial plebiscite held alongside the next election. Ranked voting lets you mark candidates 1, 2, 3. It [reflects more voices](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening) and reduces wasted votes.
+Yukoners will be asked whether to switch to ranked voting or to keep first‑past‑the‑post on a territorial plebiscite held alongside the next territorial election. Ranked voting lets you mark candidates 1, 2, 3. It [reflects more voices](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening) and reduces wasted votes.
 
 **If you want ranked voting, vote yes!** If you want to stick with first-past-the-post, vote no.
 
@@ -90,7 +90,8 @@ We’re not affiliated with any Yukon political party or organization, and we’
 
 {{< cards >}}
   {{< card link="#print-off-a-poster" title="🖼️ Print off a poster" >}}
-  {{< card link="#donate-to-our-lawn-sign-fund" title="🪧 Donate to our lawn sign fund" >}}
+  {{< card link="#donate-to-our-lawn-sign-fund" title="💵 Donate to our lawn sign fund" >}}
+  {{< card link="#request-a-lawn-sign" title="🪧 Request a lawn sign" >}}
   {{< card link="#tell-your-friends-to-vote-yes" title="🧑‍⚕️ Tell your friends to vote YES " >}}
 {{< /cards >}}
 
@@ -119,9 +120,16 @@ Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate
 * If for any reason we’re unsure about you or your donation, we’ll refund it back to you via e-transfer.
 * If we have any donation funds left over after the election, we’ll donate them to the [Samara Centre for Democracy](https://www.samaracentre.ca/), which does awesome work to promote civic engagement in Canada. 
 
-You can request a lawn sign without making a donation, with our [lawn sign request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform). We’ll get these to people in first-come, first-serve order, using any additional donation funds we receive. (Not first-past-the-post order! That was a joke.) If you donate more than $10, you’re helping print lawn signs for other Vote YES Yukon supporters, which is super nice!
-
 For public transparency, you can [see who donated to Vote YES Yukon here](https://docs.google.com/spreadsheets/d/1Mtn_kpjpEA1xQZQqOIpuioOM1rSHYLSdAktMv8x6I0Y/edit), and you can [see our expenses here](https://docs.google.com/spreadsheets/d/1CsQ8GDYejsV0yfmII71SvGTCWfcaYarltdghoqC-luI/edit). These are updated on a weekly basis. 
+
+### Request a lawn sign
+
+You can request a lawn sign without making a donation, with our [lawn sign request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform). 
+
+We’ll get these to people in first-come, first-serve order, using any additional donation funds we receive. (Not first-past-the-post order! That was a joke.) If you donate more than $10, you’re helping print lawn signs for other Vote YES Yukon supporters, which is super nice!
+
+**Getting the word out about the plebiscite is our biggest challenge.** Lawn signs are an awesome way to let your neighbours know that voting YES is a great idea!
+
 
 
 ### Tell your friends to vote YES
@@ -130,7 +138,7 @@ The best thing you can do is tell your friends, family, coworkers, neighbours, s
 
 It’s a niche topic that almost no one cares about, but it’s such a great opportunity to make our territory better. Letting folks know that it’s happening, and that voting YES is a good idea, will make a big difference.
 
-You can share our website link ([voteyesyukon.ca](https://voteyesyukon.ca)) or Facebook page (coming soon) with anyone who is interested.
+You can share our website link ([voteyesyukon.ca](https://voteyesyukon.ca)) or [Facebook page](https://www.facebook.com/profile.php?id=61581300344433) with anyone who is interested.
 
 
 ## Who are you people?
