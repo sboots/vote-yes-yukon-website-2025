@@ -22,7 +22,7 @@ hugo server --logLevel debug -D --disableFastRender -p 1314
 Todo:
 
 - Homepage design
-- Remove or fix text-search JS
+- Remove or fix text-search JS (done)
 - Favicon updates
 - News/updates path configuration
 - Plausible.io setup (done)
@@ -33,4 +33,4 @@ Additional todo items:
 - Mobile breakpoint adjustments to header image (done)
 - Menu and anchor grey colours to match theme
 - Add poster images and downloads (done)
-- Add spreadsheet links
+- Add spreadsheet links (done)

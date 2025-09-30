@@ -6,6 +6,9 @@
     --hx-color-neutral-900: #0b0f1a;
     /* --hx-color-white: #fbcc6b; */
 
+    /* Colour completeness testing */
+    /* --hx-color-slate-900: #ddddff; */
+
     /* --hx-font-sans:  */
   }
 }
@@ -50,8 +53,16 @@ body:where(.light, .light *) {
   line-height: calc(var(--hx-spacing) * 6.5);
 }
 
+.light .content :where(p):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: var(--hx-color-slate-900);
+}
+
 .content :where(ul):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
   margin-top: calc(var(--hx-spacing) * 5);
+}
+
+.light .content :where(ul):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  color: var(--hx-color-slate-900);
 }
 
 .homepage-logo-bg {
@@ -119,6 +130,10 @@ body:where(.light, .light *) {
   padding-top: 1rem;
   padding-top: 1rem;
   line-height: calc(var(--hx-spacing) * 7);
+}
+
+.light .homepage-subheading {
+  color: var(--hx-color-slate-900);
 }
 
 @media screen and (max-width: 767px) {
