@@ -4,7 +4,7 @@
     --hx-color-slate-100: #d7f1f6;
     --hx-color-dark: #0b0f1a;
     --hx-color-neutral-900: #0b0f1a;
-    --hx-color-white: #fbcc6b;
+    /* --hx-color-white: #fbcc6b; */
 
     /* --hx-font-sans:  */
   }
@@ -35,12 +35,12 @@ body:where(.light, .light *) {
   background-size: 44%;
   background-repeat: no-repeat;
   background-position: top right;
-  background-color: #fff1d4;
+  /* background-color: #fff1d4; */
 }
 
 @media screen and (min-width: 768px) {
   body:where(.light, .light *) {
-    background-image: url("/img/sun-bg-partial.png");
+    /* background-image: url("/img/sun-bg-partial.png"); */
   }
 }
 
