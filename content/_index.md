@@ -2,6 +2,7 @@
 date: '2025-09-19T22:34:25-07:00'
 draft: false
 title: 'Vote YES Yukon'
+description: "Alongside the next Yukon territorial election, say YES to ranked voting. It’s simple. It makes more voices count."
 toc: true
 sidebar: 
     hide: true
