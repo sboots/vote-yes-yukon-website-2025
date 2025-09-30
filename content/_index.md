@@ -7,18 +7,34 @@ sidebar:
     hide: true
 ---
 
-<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">Alongside the next Yukon territorial election, we’re having a plebiscite on electoral reform in the Yukon. <span class="hx:font-semibold">Vote YES for a more awesome Yukon</span>.</p>
+<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">Alongside the next Yukon territorial election, say <span class="hx:font-semibold">YES</span> to ranked voting.</p>
 
+<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem; padding-top: 0;margin-top: 0.5rem;">It’s simple. It makes more voices count.</p>
 
 ## What’s happening?
 
-When the next Yukon election takes place, eligible voters will also be able to choose “Yes” or “No” on an electoral reform plebiscite question. 
+Yukoners will be asked whether to keep first‑past‑the‑post or switch to ranked voting on a territorial plebiscite held alongside the next election. Ranked voting lets you mark candidates 1, 2, 3. It [reflects more voices](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening) and reduces wasted votes.
 
-The question asks if voters want to change to a ranked vote system – where you rank your choice of candidates in order – or to stick with the current first-past-the-post voting system, which everyone agrees is [pretty terrible](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening).
-
-**If you want to change, vote yes! If you want to stick with first-past-the-post, vote no.**
+**If you want ranked voting, vote yes!** If you want to stick with first-past-the-post, vote no.
 
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
+
+## Why ranked vote?
+
+<div class="hextra-cards hx:gap-4 hx:grid" style="--hextra-cards-grid-cols: 3">
+    <div class="hx:flex hx:flex-col hx:justify-start">
+        <h3>Lead the way in Canada</h3>
+        <p>Yukon can <a href="#show-canada-that-electoral-reform-is-possible">be the first</a> to replace first‑past‑the‑post and show that reform is possible.</p>
+    </div>
+    <div class="hx:flex hx:flex-col hx:justify-start">
+        <h3>Better outcomes</h3>
+        <p>Ranked voting encourages <a href="#create-better-political-outcomes">broader support and more sincere voting</a>. Fewer “wasted votes.”</p>
+    </div>
+    <div class="hx:flex hx:flex-col hx:justify-start">
+        <h3>Right fit for Yukon</h3>
+        <p>Close local races <a href="#choose-a-great-option-for-yukon">stay local and accountable</a> while reflecting more voters’ preferences.</p>
+    </div>
+</div>
 
 
 ## Why vote yes?
