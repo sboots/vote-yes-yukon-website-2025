@@ -157,6 +157,6 @@ Whitehorse, Yukon
 
 “You're voting your heart, rather than just voting somebody out. We are recommending something that can actually change the political landscape.” [Dave Mavi](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608)
 
-“It’s going to be interesting! Hopefully it receives widespread support.” [Christopher Griffiths](https://mastodon.xyz/@cjgyt/115070939841925803)
+“At one time or another, we’ve all felt that election results didn’t reflect vote distribution or intent. This is our chance to fix one of our system’s biggest shortcomings by supporting the plebiscite and leading the rest of Canada. I hope that all parties will agree to be bound by the will of Yukoners if the plebiscite receives majority support.” [Christopher Griffiths](https://mastodon.xyz/@cjgyt/)
 
 “This is a recommendation that came from people just like themselves… Yukoners who learned from experts and developed shared values to make a decision that they hoped will benefit the territory.” [Sara McPhee-Knowles](https://www.cbc.ca/player/play/video/9.6861539)
