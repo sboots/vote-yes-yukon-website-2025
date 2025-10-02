@@ -111,9 +111,10 @@ Here are some posters that you can print off (~~on your work printer~~ at a loca
 
 Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate $10 or more before our planned print run, we’ll make sure to get you a lawn sign (we’re still figuring out shipping options for outside of Whitehorse). 
 
-#### Some quick donation requirements:
+You can send donations by e-transfer to [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
 
-* You can send donations by e-transfer to [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
+{{% details title="Some quick donation rules" closed="true" %}}
+
 * If you’ve donated and you’d like a lawn sign, [fill out our lawn sign request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform).
 * **We are not a political party and these donations are not tax deductible.**
 * For transparency, your name (as displayed in the e-transfer) will be added to a publicly-visible donation record spreadsheet.
@@ -121,9 +122,13 @@ Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate
 * If for any reason we’re unsure about you or your donation, we’ll refund it back to you via e-transfer.
 * If we have any donation funds left over after the election, we’ll donate them to the [Samara Centre for Democracy](https://www.samaracentre.ca/), which does awesome work to promote civic engagement in Canada. 
 
+{{% /details %}}
+
 For public transparency, you can [see who donated to Vote YES Yukon here](https://docs.google.com/spreadsheets/d/1Mtn_kpjpEA1xQZQqOIpuioOM1rSHYLSdAktMv8x6I0Y/edit), and you can [see our expenses here](https://docs.google.com/spreadsheets/d/1CsQ8GDYejsV0yfmII71SvGTCWfcaYarltdghoqC-luI/edit). These are updated on a weekly basis. 
 
 ### Request a lawn sign
+
+Always wanted an election sign but weren’t sure about any of the political parties? This is your chance to shine!
 
 You can request a lawn sign without making a donation, with our [lawn sign request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform). 
 
