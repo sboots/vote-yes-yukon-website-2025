@@ -139,7 +139,7 @@ The best thing you can do is tell your friends, family, coworkers, neighbours, s
 
 It’s a niche topic that almost no one cares about, but it’s such a great opportunity to make our territory better. Letting folks know that it’s happening, and that voting YES is a good idea, will make a big difference.
 
-You can share our website link ([voteyesyukon.ca](https://voteyesyukon.ca)) or [Facebook page](https://www.facebook.com/profile.php?id=61581300344433) with anyone who is interested.
+You can share our website link ([voteyesyukon.ca](https://voteyesyukon.ca)) or [Facebook page](https://www.facebook.com/people/Vote-Yes-Yukon-Votez-oui-Yukon/61581300344433/) with anyone who is interested.
 
 
 ## Who are you people?
