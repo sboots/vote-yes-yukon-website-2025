@@ -50,8 +50,15 @@ The Yukon is an awesome role model for so many things. People across Canada have
 
 The [Yukon Citizens’ Assembly on electoral reform](https://www.yukoncitizensassembly.ca/) chose ranked vote because it [makes more votes matter](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608) than first-past-the-post. Ranked vote [allows](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608) “voters to vote for who they truly want, and it opens the door to smaller parties and independent candidates getting voted in”. 
 
+If you’re like many voters, you might have felt that you’ve needed to [vote strategically](https://en.wikipedia.org/wiki/Strategic_voting) over the years, even for parties that you’re not that excited about. Ranked vote means that you could vote for the candidates you genuinely care about most. 
+
 As the Citizens’ Assembly report [pointed out](https://www.yukoncitizensassembly.ca/ycaer-final-report-october-2024/), “with Ranked Vote, voters can honestly rank their choices without feeling their vote is wasted”. That’s pretty awesome!
 
+### Political parties think it’s a good idea, even if they won’t admit it
+
+Canadian political parties at both the federal and provincial levels [already use ranked vote to choose their party leadership candidates](https://fairvote.org/new-canadian-prime-minister-will-be-chosen-with-ranked-choice-voting/). 
+
+Ranked voting helps choose representatives that more supporters can get behind, and ultimately helps the party leadership better reflect their membership. 
 
 ### Choose a great option for Yukon
 
@@ -60,12 +67,6 @@ The Yukon is a small territory and elections tend to be pretty tight (remember w
 Although there are lots of great electoral reform options out there (including [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation), which is excellent), many of these work best on a country-sized scale rather than [a population of 48,000 people](https://en.wikipedia.org/wiki/Yukon).
 
 [Everyday Yukoners from across the territory](https://www.cbc.ca/player/play/video/9.6861539) who were part of the Citizens’ Assembly – not politicians or government officials! – landed on ranked vote as the best option to improve our electoral system.
-
-
-### Political parties think it’s a good idea, even if they won’t admit it
-
-Canadian political parties at both the federal and provincial levels [already use ranked vote to choose their party leadership candidates](https://fairvote.org/new-canadian-prime-minister-will-be-chosen-with-ranked-choice-voting/). It helps choose representatives that more supporters can get behind, and ultimately helps the party leadership better reflect their membership. 
-
 
 ### Be part of a really cool change
 
