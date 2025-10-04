@@ -1,5 +1,5 @@
 ---
-date: '2025-10-06T22:15:23-07:00'
+date: '2025-10-06T07:15:23-07:00'
 draft: false
 title: "Introducing Vote YES Yukon!"
 description: "We’re really thrilled to launch the Vote YES Yukon campaign for this year’s electoral reform plebiscite in the Yukon!"
@@ -21,7 +21,7 @@ In ranked voting, you choose your candidates in order of preference – 1, 2, 3
 
 At the same time, ranked voting [keeps the local responsiveness and accountability](/#create-better-political-outcomes) of our current system. It’s a win-win! 
 
-Over the election period we’ll share more updates from the Vote YES Yukon campaign. We’d love for you to get involved! You can [print off a poster](/#print-off-a-poster), [donate to our lawn sign fund](/#donate-to-our-lawn-sign-fund), [request a lawn sign](/#request-a-lawn-sign), and – most of all – [tell your friends](/#tell-your-friends-to-vote-yes) about the plebiscite and encourage them to vote YES!
+Over the election period we’ll share more updates from the Vote YES Yukon campaign. **We’d love for you to get involved!** You can [print off a poster](/#print-off-a-poster), [donate to our lawn sign fund](/#donate-to-our-lawn-sign-fund), [request a lawn sign](/#request-a-lawn-sign), and – most of all – [tell your friends](/#tell-your-friends-to-vote-yes) about the plebiscite and encourage them to vote YES!
 
 Thanks for reading and, as always, keep on being awesome! \
 – Sean Boots

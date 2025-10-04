@@ -3,6 +3,7 @@ date: '2025-09-19T22:34:25-07:00'
 draft: false
 title: 'Vote YES Yukon'
 description: "On November 3rd, say YES to ranked voting. It’s simple. It makes more voices count."
+images: ["/img/site-opengraph-image.png"]
 toc: true
 sidebar: 
     hide: true
@@ -168,3 +169,10 @@ Whitehorse, Yukon
 “This is a recommendation that came from people just like themselves… Yukoners who learned from experts and developed shared values to make a decision that they hoped will benefit the territory.” [Sara McPhee-Knowles](https://www.cbc.ca/player/play/video/9.6861539)
 
 Have thoughts or quotes to share? [Fill out our quotes and comments form](https://docs.google.com/forms/d/e/1FAIpQLScqC2GCTadZhqlCTwBrcGJER887tsgkKVk1iOkudofPyoCtBQ/viewform)!
+
+## Stay up to date
+
+{{< cards >}}
+  {{< card link="https://www.facebook.com/people/Vote-Yes-Yukon-Votez-oui-Yukon/61581300344433/" title="🌐 Find us on Facebook" >}}
+  {{< card link="/blog/" title="📰 Read our latest updates" >}}
+{{< /cards >}}
