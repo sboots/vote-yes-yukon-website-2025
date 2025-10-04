@@ -2,19 +2,19 @@
 date: '2025-09-19T22:34:25-07:00'
 draft: false
 title: 'Vote YES Yukon'
-description: "Alongside the next Yukon territorial election, say YES to ranked voting. It’s simple. It makes more voices count."
+description: "On November 3rd, say YES to ranked voting. It’s simple. It makes more voices count."
 toc: true
 sidebar: 
     hide: true
 ---
 
-<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">Alongside the next Yukon territorial election, say <span class="hx:font-semibold">YES</span> to ranked voting.</p>
+<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">On November 3<sup>rd</sup>, say <span class="hx:font-semibold">YES</span> to ranked voting.</p>
 
 <p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem; padding-top: 0;margin-top: 0.5rem;">It’s simple. It makes more voices count.</p>
 
 ## What’s happening?
 
-Yukoners will be asked whether to switch to ranked voting or to keep first‑past‑the‑post on a territorial plebiscite held alongside the next territorial election. Ranked voting lets you mark candidates 1, 2, 3. It [reflects more voices](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening) and reduces wasted votes.
+Yukoners will be asked whether to switch to ranked voting or to keep first‑past‑the‑post on a territorial plebiscite, which will take place along with the next Yukon territorial election on November 3<sup>rd</sup>, 2025. Ranked voting lets you mark candidates 1, 2, 3. It [reflects more voices](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening) and reduces wasted votes.
 
 **If you want ranked voting, vote yes!** If you want to stick with first-past-the-post, vote no.
 
@@ -166,3 +166,5 @@ Whitehorse, Yukon
 “At one time or another, we’ve all felt that election results didn’t reflect vote distribution or intent. This is our chance to fix one of our system’s biggest shortcomings by supporting the plebiscite and leading the rest of Canada. I hope that all parties will agree to be bound by the will of Yukoners if the plebiscite receives majority support.” [Christopher Griffiths](https://mastodon.xyz/@cjgyt/)
 
 “This is a recommendation that came from people just like themselves… Yukoners who learned from experts and developed shared values to make a decision that they hoped will benefit the territory.” [Sara McPhee-Knowles](https://www.cbc.ca/player/play/video/9.6861539)
+
+Have thoughts or quotes to share? [Fill out our quotes and comments form](https://docs.google.com/forms/d/e/1FAIpQLScqC2GCTadZhqlCTwBrcGJER887tsgkKVk1iOkudofPyoCtBQ/viewform)!
