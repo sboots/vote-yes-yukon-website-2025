@@ -24,4 +24,8 @@ At the same time, ranked voting [keeps the local responsiveness and accountabili
 Over the election period we’ll share more updates from the Vote YES Yukon campaign. **We’d love for you to get involved!** You can [print off a poster](/#print-off-a-poster), [donate to our lawn sign fund](/#donate-to-our-lawn-sign-fund), [request a lawn sign](/#request-a-lawn-sign), and – most of all – [tell your friends](/#tell-your-friends-to-vote-yes) about the plebiscite and encourage them to vote YES!
 
 Thanks for reading and, as always, keep on being awesome! \
-– Sean Boots
+– Sean 
+
+Sean Boots \
+Whitehorse, Yukon \
+<voteyesyukon@gmail.com>

@@ -21,6 +21,10 @@ Yukoners will be asked whether to switch to ranked voting or to keep first‑pas
 
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
 
+{{< callout >}}
+  Read our latest update: [Introducing Vote YES Yukon!](/blog/introducing-vote-yes-yukon/)
+{{< /callout >}}
+
 ## Why ranked vote?
 
 <div class="hextra-cards hx:gap-4 hx:grid" style="--hextra-cards-grid-cols: 3">
@@ -151,24 +155,26 @@ You can share our website link ([voteyesyukon.ca](https://voteyesyukon.ca)) or [
 
 ## Who are you people?
 
-We’re the non-partisan Vote YES Yukon campaign! We’re not affiliated with any Yukon political party or other organization. 
+We’re the **non-partisan Vote YES Yukon campaign**! We’re not affiliated with any Yukon political party or other organization. 
 
 [Sean Boots](https://sboots.ca/) \
 Public servant and technology writer \
 Whitehorse, Yukon
 
-(other members coming soon)
+(other members coming soon – [reach out](mailto:voteyesyukon@gmail.com) if you’d like to get involved!)
 
 
 ## Quotes
 
-“You're voting your heart, rather than just voting somebody out. We are recommending something that can actually change the political landscape.” [Dave Mavi](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608)
+> “You're voting your heart, rather than just voting somebody out. We are recommending something that can actually change the political landscape.” [Dave Mavi](https://www.yukon-news.com/news/yukon-citizens-assembly-recommends-changing-electoral-system-to-ranked-vote-7533608)
 
-“At one time or another, we’ve all felt that election results didn’t reflect vote distribution or intent. This is our chance to fix one of our system’s biggest shortcomings by supporting the plebiscite and leading the rest of Canada. I hope that all parties will agree to be bound by the will of Yukoners if the plebiscite receives majority support.” [Christopher Griffiths](https://mastodon.xyz/@cjgyt/)
+> “A ranked ballot would give candidates an incentive to moderate their platform and approach in order to appeal as the second-choice candidate to supporters of other candidates or parties. This could lead to less partisan politics.” [Floyd McCormick](https://www.yukoncitizensassembly.ca/2024/08/12/floyd-mccormick/)
 
-“This is a recommendation that came from people just like themselves… Yukoners who learned from experts and developed shared values to make a decision that they hoped will benefit the territory.” [Sara McPhee-Knowles](https://www.cbc.ca/player/play/video/9.6861539)
+> “At one time or another, we’ve all felt that election results didn’t reflect vote distribution or intent. This is our chance to fix one of our system’s biggest shortcomings by supporting the plebiscite and leading the rest of Canada. I hope that all parties will agree to be bound by the will of Yukoners if the plebiscite receives majority support.” [Christopher Griffiths](https://mastodon.xyz/@cjgyt/)
 
-Have thoughts or quotes to share? [Fill out our quotes and comments form](https://docs.google.com/forms/d/e/1FAIpQLScqC2GCTadZhqlCTwBrcGJER887tsgkKVk1iOkudofPyoCtBQ/viewform)!
+> “This is a recommendation that came from people just like themselves… Yukoners who learned from experts and developed shared values to make a decision that they hoped will benefit the territory.” [Sara McPhee-Knowles](https://www.cbc.ca/player/play/video/9.6861539)
+
+**Have thoughts or quotes to share?** [Fill out our quotes and comments form](https://docs.google.com/forms/d/e/1FAIpQLScqC2GCTadZhqlCTwBrcGJER887tsgkKVk1iOkudofPyoCtBQ/viewform)!
 
 ## Stay up to date
 
