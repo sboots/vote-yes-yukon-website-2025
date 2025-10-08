@@ -115,7 +115,7 @@ Here are some posters that you can print off (~~on your work printer~~ at a loca
 
 ### Donate to our lawn sign fund
 
-Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate $10 or more before our planned print run, we’ll make sure to get you a lawn sign (we’re still figuring out shipping options for outside of Whitehorse). 
+Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate $10 or more before **October 14** (our second print-run deadline), we’ll make sure to get you a lawn sign (we’re still figuring out shipping options for outside of Whitehorse). 
 
 You can send donations by e-transfer to [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
 
