@@ -22,7 +22,7 @@ Yukoners will be asked whether to switch to ranked voting or to keep first‑pas
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
 
 {{< callout >}}
-  Read our latest update: [Introducing Vote YES Yukon!](/blog/introducing-vote-yes-yukon/)
+  Read our latest update: [Does the proposed ranked ballot voting system lean toward any particular party?](/blog/does-ranked-ballot-voting-lean-towards-any-particular-party/)
 {{< /callout >}}
 
 ## Why ranked vote?
