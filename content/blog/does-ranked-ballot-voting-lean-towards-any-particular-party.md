@@ -1,6 +1,6 @@
 ---
 date: '2025-10-13T20:35:37-07:00'
-draft: true
+draft: false
 title: 'Does the proposed ranked ballot voting system lean toward any particular party?'
 description: "The ranked ballot does a better job of electing the government that most voters want. It doesn't favour any one party, it favours voters!"
 ---
