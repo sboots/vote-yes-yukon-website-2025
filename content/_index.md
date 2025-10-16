@@ -22,7 +22,7 @@ Yukoners will be asked whether to switch to ranked voting or to keep first‑pas
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
 
 {{< callout >}}
-  Read our latest update: [Does the proposed ranked ballot voting system lean toward any particular party?](/blog/does-ranked-ballot-voting-lean-towards-any-particular-party/)
+  Read our latest update: [Under our current voting system, the math doesn’t always math.](/blog/better-math/)
 {{< /callout >}}
 
 ## Why ranked vote?
@@ -115,7 +115,11 @@ Here are some posters that you can print off (~~on your work printer~~ at a loca
 
 ### Donate to our lawn sign fund
 
-Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate $10 or more before **October 14** (our second print-run deadline), we’ll make sure to get you a lawn sign (we’re still figuring out shipping options for outside of Whitehorse). 
+Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate $10 or more, we’ll make sure to get you a lawn sign (we’re still figuring out shipping options for outside of Whitehorse). 
+
+{{< callout type="info" >}}
+  As of October 14, we have a second lawn sign order currently in production. If you’d like a lawn sign, [fill out the request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform) while supplies last!
+{{< /callout >}}
 
 You can send donations by e-transfer to [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
 
