@@ -115,10 +115,10 @@ Here are some posters that you can print off (~~on your work printer~~ at a loca
 
 ### Donate to our lawn sign fund
 
-Lawn signs are surprisingly expensive (like $10 apiece to print!). If you donate $10 or more, we’ll make sure to get you a lawn sign (we’re still figuring out shipping options for outside of Whitehorse). 
+Lawn signs are surprisingly expensive (like $10 apiece to print!). Donations to our lawn sign fund are gratefully appreciated! **After our print orders are covered, we’ll use any additional donations for other print advertising and poster printing.**
 
 {{< callout type="info" >}}
-  As of October 14, we have a second lawn sign order currently in production. If you’d like a lawn sign, [fill out the request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform) while supplies last!
+  Our second lawn sign order is in production and should arrive later this week (October 20-24). If you’d like a lawn sign, [fill out the request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform) while supplies last!
 {{< /callout >}}
 
 You can send donations by e-transfer to [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
@@ -139,6 +139,10 @@ For public transparency, you can [see who donated to Vote YES Yukon here](https:
 ### Request a lawn sign
 
 Always wanted an election sign but weren’t sure about any of the political parties? This is your chance to shine!
+
+{{< callout type="warning" >}}
+  Almost all of the signs we’ve ordered have been requested! We’ll give out any remaining signs until we run out. You can also [print off posters](#print-off-a-poster) and put them up around your community.
+{{< /callout >}}
 
 You can request a lawn sign without making a donation, with our [lawn sign request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform). 
 
