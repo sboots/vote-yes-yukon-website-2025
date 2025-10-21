@@ -22,7 +22,7 @@ Yukoners will be asked whether to switch to ranked voting or to keep first‑pas
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
 
 {{< callout >}}
-  Read our latest update: [This Yukon territorial election, do something awesome](/blog/this-territorial-election-do-something-awesome/)
+  Read our latest update: [Vote YES Yukon in the Yukon News](/blog/vote-yes-in-yukon-news/)
 {{< /callout >}}
 
 ## Why ranked vote?
