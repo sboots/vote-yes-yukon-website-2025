@@ -120,14 +120,13 @@ Here are some posters that you can print off (~~on your work printer~~ at a loca
 Lawn signs are surprisingly expensive (like $10 apiece to print!). Donations to our lawn sign fund are gratefully appreciated! **After our print orders are covered, we’ll use any additional donations for other print advertising and poster printing.**
 
 {{< callout type="info" >}}
-  Our second lawn sign order is in production and should arrive later this week (October 20-24). If you’d like a lawn sign, [fill out the request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform) while supplies last!
+  Our second lawn sign order is in production and should arrive later this week (October 20-24). **All of the signs from both orders have been requested.** Thanks everyone for the wonderful support!
 {{< /callout >}}
 
 You can send donations by e-transfer to [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com).
 
 {{% details title="Some quick donation rules" closed="true" %}}
 
-* If you’ve donated and you’d like a lawn sign, [fill out our lawn sign request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform).
 * **We are not a political party and these donations are not tax deductible.**
 * For transparency, your name (as displayed in the e-transfer) will be added to a publicly-visible donation record spreadsheet.
 * Please only send a donation if you are a Yukon resident, and please don’t donate more than $200.
@@ -142,11 +141,9 @@ For public transparency, you can [see who donated to Vote YES Yukon here](https:
 
 Always wanted an election sign but weren’t sure about any of the political parties? This is your chance to shine!
 
-{{< callout type="warning" >}}
-  Almost all of the signs we’ve ordered have been requested! We’ll give out any remaining signs until we run out. You can also [print off posters](#print-off-a-poster) and put them up around your community.
+{{< callout type="info" >}}
+  **October 21 update: all of the signs we’ve ordered have been requested!** You can also [print off posters](#print-off-a-poster) and put them up around your community.
 {{< /callout >}}
-
-You can request a lawn sign without making a donation, with our [lawn sign request form](https://docs.google.com/forms/d/e/1FAIpQLSf1jKx05-ghA6poH4wGJEkvxW8S_Nv_VxNTBCjOO2S08HEaKg/viewform). 
 
 We’ll get these to people in first-come, first-serve order, using any additional donation funds we receive. (Not first-past-the-post order! That was a joke.) If you donate more than $10, you’re helping print lawn signs for other Vote YES Yukon supporters, which is super nice!
 
