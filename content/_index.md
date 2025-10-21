@@ -105,10 +105,12 @@ We’re not affiliated with any Yukon political party or organization, and we’
 
 ### Print off a poster
 
-Here are some posters that you can print off (~~on your work printer~~ at a local office supply store), in 11x17 ledger/tabloid size. If you have ideas for other poster designs, give us a shout at [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com). 
+Here are some posters that you can print off (~~on your work printer~~ at a local office supply store), in various sizes. If you have ideas for other poster designs, give us a shout at [voteyesyukon@gmail.com](mailto:voteyesyukon@gmail.com). 
 
 {{< cards >}}
+  {{< card link="/files/on-nov-3-vote-yes.pdf" title="On November 3, vote YES" image="/img/on-nov-3-vote-yes-v1-preview.png" subtitle="8.5x11 portrait PDF file" >}}
   {{< card link="/files/be-awesome-vote-yes-v1.pdf" title="Be awesome, vote YES" image="/img/be-awesome-vote-yes-v1-preview.png" subtitle="11x17 PDF file" >}}
+  {{< card link="/files/be-awesome-vote-yes-bw-v2.pdf" title="Be awesome, vote YES" image="/img/be-awesome-vote-yes-bw-v2-preview.png" subtitle="11x17 black & white PDF file" >}}
   {{< card link="/files/soyez-numero-un-votez-oui-v1.pdf" title="Soyez numéro un·e, votez OUI" image="/img/votez-oui-yukon-logo-r1-preview.png" subtitle="11x17 PDF file" >}}
 
 {{< /cards >}}
