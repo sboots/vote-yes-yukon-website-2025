@@ -6,11 +6,13 @@ description: "“Sean Boots’ family welcomed their second child into their hom
 images: ["/img/yukon-news-sean-boots-vote-yes.jpg"]
 ---
 
-Vote YES Yukon is in today’s Yukon News. [You can read the full article here](https://www.yukon-news.com/news/vote-yes-campaign-born-as-yukon-faces-plebiscite-ballot-on-voting-system-8310444). 
+**Vote YES Yukon** is in today’s Yukon News. [You can read the full article here](https://www.yukon-news.com/news/vote-yes-campaign-born-as-yukon-faces-plebiscite-ballot-on-voting-system-8310444). 
 
 <img class="h-48 w-96 object-scale-down" src="/img/yukon-news-sean-boots-vote-yes.jpg" alt="Sean standing in downtown Whitehorse holding two lawn signs, a “Votez OUI Yukon” sign and a “Vote YES Yukon” sign. Taken by Dana Hatherly from Yukon News.">
 
 _Photo credit Dana Hatherly / Yukon News_
+
+From the article:
 
 > Sean Boots’ family welcomed their second child into their home. Days later, he received his first shipment of lawn signs on electoral reform.
 > 
@@ -31,3 +33,5 @@ _Photo credit Dana Hatherly / Yukon News_
 > "Once we stop using it, everyone will be like, ‘thank goodness. This new system is so much better’,” he said. 
 > 
 > “Provinces across Canada have talked about getting rid of daylight savings time changes forever, but only the Yukon actually did it. And I think that's something that's really cool about the territory, is that you can actually go for stuff.”
+
+[Read the full article at yukon-news.com](https://www.yukon-news.com/news/vote-yes-campaign-born-as-yukon-faces-plebiscite-ballot-on-voting-system-8310444). 
