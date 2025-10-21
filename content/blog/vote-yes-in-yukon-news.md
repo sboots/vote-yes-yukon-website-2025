@@ -10,7 +10,7 @@ images: ["/img/yukon-news-sean-boots-vote-yes.jpg"]
 
 <img class="h-48 w-96 object-scale-down" src="/img/yukon-news-sean-boots-vote-yes.jpg" alt="Sean standing in downtown Whitehorse holding two lawn signs, a “Votez OUI Yukon” sign and a “Vote YES Yukon” sign. Taken by Dana Hatherly from Yukon News.">
 
-_Photo credit Dana Hatherly / Yukon News_
+_Photo credit [Dana Hatherly](https://www.yukon-news.com/writers/dana.hatherly) / Yukon News_
 
 From the article:
 
