@@ -42,6 +42,7 @@ You can find out more on [Elections Yukon’s plebiscite page](https://elections
     </div>
 </div>
 
+<img class="h-48 w-96 object-scale-down" src="/img/vote-yes-yukon-sign-haines-junction-01.jpg" alt="A “Vote YES Yukon” lawn sign in Haines Junction, with the Saint Elias mountain range in the background.">
 
 ## Why vote yes?
 
