@@ -29,10 +29,10 @@ To everyone who has helped spread the word, helped put up lawn signs, and donate
     * **9** in Haines Junction
     * **1** in Mendenhall
     * **1** in Takhini Subdivision
-    * **83** in Whitehorse
-    * (**19** lawn signs still being distributed)
+    * **84** in Whitehorse
+    * (**18** lawn signs still being distributed)
 * **30** posters being put up around Whitehorse
-* **$2,030.00** [received](https://docs.google.com/spreadsheets/d/1Mtn_kpjpEA1xQZQqOIpuioOM1rSHYLSdAktMv8x6I0Y/edit) in donations
+* **$2,030.00** [received](https://docs.google.com/spreadsheets/d/1Mtn_kpjpEA1xQZQqOIpuioOM1rSHYLSdAktMv8x6I0Y/edit) in donations from more than **30** individual Yukoners
 * **$1,898.67** [spent](https://docs.google.com/spreadsheets/d/1CsQ8GDYejsV0yfmII71SvGTCWfcaYarltdghoqC-luI/edit) on the campaign to date
 
 
