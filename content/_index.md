@@ -22,9 +22,9 @@ Yukoners will be asked whether to switch to ranked voting or to keep first‑pas
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
 
 {{< callout >}}
-  Read our latest update: [Yukon electoral reform: an opportunity not to miss](/blog/yukon-electoral-reform-an-opportunity-not-to-miss/)
+  Read our latest update: [Campaign update from Vote YES Yukon](/blog/campaign-update-vote-yes-yukon/)
 
-  Media coverage:
+  **Media coverage:**
 
   * [Réforme électorale, une occasion à ne pas manquer](https://auroreboreale.ca/opinions/a-vous-la-parole/2025/10/23/reforme-electorale-une-occasion-a-ne-pas-manquer/), l’Aurore Boréale (October 23, 2025)
   * [Vote YES Yukon on Yukon Morning](/blog/vote-yes-on-cbc-yukon-radio/), CBC Radio (October 21, 2025)
