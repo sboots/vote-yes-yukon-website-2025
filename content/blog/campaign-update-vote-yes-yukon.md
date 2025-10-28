@@ -3,6 +3,7 @@ date: '2025-10-28T10:01:33-07:00'
 draft: false
 title: 'Campaign update from Vote YES Yukon'
 description: "It’s been wonderful to see the level of community support and enthusiasm for the Vote YES Yukon campaign. People from across the Yukon are excited about the “yes” vote and about the possibility of ranked voting."
+images: ["/img/blog/vote-yes-dawson-city.jpg"]
 ---
 
 **With less than a week before the Yukon territorial election, here’s a quick update from [Vote YES Yukon](/)!**
