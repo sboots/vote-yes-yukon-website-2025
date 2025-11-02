@@ -22,7 +22,7 @@ Yukoners will be asked whether to switch to ranked voting or to keep first‑pas
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
 
 {{< callout >}}
-  Read our latest update: [Campaign update from Vote YES Yukon](/blog/campaign-update-vote-yes-yukon/)
+  Read our latest update: [“Different is good”, vote yes!](/blog/different-is-good/)
 
   **Media coverage:**
 
