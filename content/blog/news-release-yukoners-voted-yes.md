@@ -2,7 +2,7 @@
 date: '2025-11-04T00:44:24-07:00'
 draft: false
 title: 'News release – Yukoners vote YES to ranked voting and electoral reform'
-description: "Today, in a historic moment, Yukoners voted “yes“ to ranked voting by a significant margin. More than 55% of plebiscite votes were in favour of the “yes” option, to switch to a ranked voting system as recommend by the Citizens’ Assembly on Electoral Reform."
+description: "Today, in a historic moment, Yukoners voted “yes“ to ranked voting by a significant margin. More than 56% of plebiscite votes were in favour of the “yes” option, to switch to a ranked voting system as recommend by the Citizens’ Assembly on Electoral Reform."
 images: ["/img/blog/vote-yes-lawn-sign.jpg"]
 ---
 
