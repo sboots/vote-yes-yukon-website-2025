@@ -20,7 +20,7 @@ As [premier-elect Currie Dixon stated](https://www.cbc.ca/news/canada/north/yuko
 
 By voting 56% in favour of ranked voting, Yukoners clearly chose a new path: “yes” to electoral reform. 
 
-We’re really happy to see these results, and we’re grateful to everyone who has participated in and contributed to the Vote YES Yukon campaign over the past month. Thanks in particular to all the [Citizens’ Assembly members](https://www.yukoncitizensassembly.ca/), to [Floyd McCormick](https://www.yukon-news.com/opinion/letter-the-case-for-ranked-voting-in-coming-yukon-plebiscite-8299053), the former clerk of the Yukon Legislature, and to Yukoners across the territory who helped spread the word about electoral reform.
+We’re really happy to see these results, and we’re grateful to everyone who has [participated in and contributed to](/blog/campaign-update-vote-yes-yukon/) the Vote YES Yukon campaign over the past month. Thanks in particular to all the [Citizens’ Assembly members](https://www.yukoncitizensassembly.ca/), to [Floyd McCormick](https://www.yukon-news.com/opinion/letter-the-case-for-ranked-voting-in-coming-yukon-plebiscite-8299053), the former clerk of the Yukon Legislature, and to Yukoners across the territory who helped spread the word about electoral reform.
 
 And, most of all, we’re grateful to the thousands of Yukon voters who voted “yes” in today’s plebiscite. Thanks to you all for being awesome. 💖
 
