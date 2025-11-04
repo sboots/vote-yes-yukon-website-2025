@@ -9,20 +9,22 @@ sidebar:
     hide: true
 ---
 
-<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">On November 3<sup>rd</sup>, say <span class="hx:font-semibold">YES</span> to ranked voting.</p>
+<p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem;">On November 3<sup>rd</sup>, Yukoners voted <span class="hx:font-semibold">YES</span> to ranked voting. 🎉</p>
 
 <p class="homepage-subheading hx:font-medium" style="padding-left: 1.5rem; padding-top: 0;margin-top: 0.5rem;">It’s simple. It makes more voices count.</p>
 
 ## What’s happening?
 
-Yukoners will be asked whether to switch to ranked voting or to keep first‑past‑the‑post on a territorial plebiscite, which will take place along with the next Yukon territorial election on November 3<sup>rd</sup>, 2025. Ranked voting lets you mark candidates 1, 2, 3. It [reflects more voices](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening) and reduces wasted votes.
+Yukoners [were asked](/blog/news-release-yukoners-voted-yes/) whether to switch to ranked voting or to keep first‑past‑the‑post on a territorial plebiscite, which took place along with the next Yukon territorial election on November 3<sup>rd</sup>, 2025. 
+
+Ranked voting lets you mark candidates 1, 2, 3. It [reflects more voices](https://sboots.ca/2025/08/20/in-support-of-the-yukon-electoral-reform-plebiscite/#what-s-happening) and reduces wasted votes.
 
 **If you want ranked voting, vote yes!** If you want to stick with first-past-the-post, vote no.
 
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
 
 {{< callout >}}
-  Read our latest update: [“Different is good”, vote yes!](/blog/different-is-good/)
+  Read our latest update: [News release – Yukoners vote YES to ranked voting and electoral reform](/blog/news-release-yukoners-voted-yes/)
 
   **Media coverage:**
 
