@@ -24,10 +24,11 @@ Ranked voting lets you mark candidates 1, 2, 3. It [reflects more voices](https:
 You can find out more on [Elections Yukon’s plebiscite page](https://electionsyukon.ca/en/plebiscite), or in their [plebiscite explainer video](https://www.youtube.com/watch?v=NjM1tPb4wAI).
 
 {{< callout >}}
-  Read our latest update: [News release – Yukoners vote YES to ranked voting and electoral reform](/blog/news-release-yukoners-voted-yes/)
+  Read our latest update: [Plebiscite results and Vote YES Yukon in the Yukon News](/blog/electoral-reform-yukon-news/)
 
   **Media coverage:**
 
+  * [Electoral reform plebiscite receives majority vote as resistant Yukon Party elected](https://www.yukon-news.com/news/electoral-reform-plebiscite-receives-majority-vote-as-resistant-yukon-party-elected-8341651), Yukon News (November 5, 2025)
   * [Réforme électorale, une occasion à ne pas manquer](https://auroreboreale.ca/opinions/a-vous-la-parole/2025/10/23/reforme-electorale-une-occasion-a-ne-pas-manquer/), l’Aurore Boréale (October 23, 2025)
   * [Vote YES Yukon on Yukon Morning](/blog/vote-yes-on-cbc-yukon-radio/), CBC Radio (October 21, 2025)
   * [Vote Yes campaign born as Yukon faces plebiscite ballot on voting system](https://www.yukon-news.com/news/vote-yes-campaign-born-as-yukon-faces-plebiscite-ballot-on-voting-system-8310444), Yukon News (October 21, 2025)
