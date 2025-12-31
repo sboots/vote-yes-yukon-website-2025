@@ -6,7 +6,7 @@ description: "“Grassroots organizer Sean Boots, who helped organize the Vote Y
 images: ["/img/blog/yukon-news-plebiscite-results.jpg"]
 ---
 
-The plebiscite results and **Vote YES Yukon** were covered in yesterday’s Yukon News. [You can read the full article here](https://www.yukon-news.com/news/electoral-reform-plebiscite-receives-majority-vote-as-resistant-yukon-party-elected-8341651).
+The plebiscite results and **Vote YES Yukon** were covered in yesterday’s Yukon News. [You can read the full article here](https://yukon-news.com/2025/11/05/electoral-reform-plebiscite-receives-majority-vote-as-resistant-yukon-party-elected/).
 
 <img class="h-48 w-96 object-scale-down" src="/img/blog/yukon-news-plebiscite-results.jpg" alt="A photo of the print edition of the Yukon News, where Sean Boots and “Vote YES Yukon” are displayed on the cover with the successful plebiscite results.">
 
@@ -26,5 +26,5 @@ From the article:
 > 
 > “It’s a really neat testament to the work of the citizens’ assembly looking at good options for electoral reform for the Yukon, and also a real credit to the work of people like [Floyd McCormick](https://www.yukon-news.com/opinion/letter-the-case-for-ranked-voting-in-coming-yukon-plebiscite-8299053), a former clerk of the Yukon legislature.”
 
-[Read the full article at yukon-news.com](https://www.yukon-news.com/news/electoral-reform-plebiscite-receives-majority-vote-as-resistant-yukon-party-elected-8341651).
+[Read the full article at yukon-news.com](https://yukon-news.com/2025/11/05/electoral-reform-plebiscite-receives-majority-vote-as-resistant-yukon-party-elected/).
 

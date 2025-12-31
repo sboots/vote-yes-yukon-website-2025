@@ -16,7 +16,7 @@ To everyone who has helped spread the word, helped put up lawn signs, and donate
 ## The Vote YES Yukon campaign by the numbers
 
 * Print media exposure:
-    * **1** [Yukon News article](https://www.yukon-news.com/news/vote-yes-campaign-born-as-yukon-faces-plebiscite-ballot-on-voting-system-8310444) on the Vote YES Yukon campaign
+    * **1** [Yukon News article](https://web.archive.org/web/20251104080242/https://www.yukon-news.com/news/vote-yes-campaign-born-as-yukon-faces-plebiscite-ballot-on-voting-system-8310444) on the Vote YES Yukon campaign
     * **1** [contributor piece](https://auroreboreale.ca/opinions/a-vous-la-parole/2025/10/23/reforme-electorale-une-occasion-a-ne-pas-manquer/) in l’Aurore Boréale
     * **2** weeks of paid ads in What’s Up Yukon
     * **1** “Votez OUI Yukon” photo in l’Aurore Boréale’s news coverage

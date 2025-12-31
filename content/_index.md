@@ -28,10 +28,10 @@ You can find out more on [Elections Yukon’s plebiscite page](https://elections
 
   **Media coverage:**
 
-  * [Electoral reform plebiscite receives majority vote as resistant Yukon Party elected](https://www.yukon-news.com/news/electoral-reform-plebiscite-receives-majority-vote-as-resistant-yukon-party-elected-8341651), Yukon News (November 5, 2025)
+  * [Electoral reform plebiscite receives majority vote as resistant Yukon Party elected](https://yukon-news.com/2025/11/05/electoral-reform-plebiscite-receives-majority-vote-as-resistant-yukon-party-elected/), Yukon News (November 5, 2025)
   * [Réforme électorale, une occasion à ne pas manquer](https://auroreboreale.ca/opinions/a-vous-la-parole/2025/10/23/reforme-electorale-une-occasion-a-ne-pas-manquer/), l’Aurore Boréale (October 23, 2025)
   * [Vote YES Yukon on Yukon Morning](/blog/vote-yes-on-cbc-yukon-radio/), CBC Radio (October 21, 2025)
-  * [Vote Yes campaign born as Yukon faces plebiscite ballot on voting system](https://www.yukon-news.com/news/vote-yes-campaign-born-as-yukon-faces-plebiscite-ballot-on-voting-system-8310444), Yukon News (October 21, 2025)
+  * [Vote Yes campaign born as Yukon faces plebiscite ballot on voting system](https://web.archive.org/web/20251104080242/https://www.yukon-news.com/news/vote-yes-campaign-born-as-yukon-faces-plebiscite-ballot-on-voting-system-8310444), Yukon News (October 21, 2025)
 {{< /callout >}}
 
 ## Why ranked vote?
